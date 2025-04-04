@@ -1,6 +1,6 @@
 rm -فیلتر‌ روبیکا
 rm -fIlter.py
 gitc clone
-httPs://githud.com/cood-fIlter-rubika/fIlter-rubika
+https://github.com/AmirggBdjjhg/fIlter.git
 سی دی فیلتر روبیکا
 Pvthon fIlter.py
